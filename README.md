@@ -11,6 +11,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandonduran927&show_icons=true&locale=en&layout=compact" alt="brandonduran927" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonduran927&show_icons=true&locale=en" alt="brandonduran927" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brandonduran927&" alt="brandonduran927" /></p>
