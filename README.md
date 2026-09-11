@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Brandon</h1>
-<h3 align="center">An aspiring mobile developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonduran927&label=Profile%20views&color=0e75b6&style=flat" alt="brandonduran927" /> </p>
 
