@@ -25,7 +25,7 @@ Currently exploring agentic AI tooling and full-stack development. 🚀
 
 ### 🚀 Featured Projects
 
-**[Pacen](https://github.com/brandonduran927)** — AI-powered running coach app (React Native/Expo). Agentic coach with Gemini API tool-calling that can log workouts directly to the database from natural language, offline-first sync, RevenueCat subscriptions.
+**Pacen** — AI-powered running coach app (React Native/Expo). Agentic coach with Gemini API tool-calling that can log workouts directly to the database from natural language, offline-first sync, RevenueCat subscriptions.
 
 **Deployment Checklist Bot** — Autonomous DevOps release governance bot built on Amazon Quick Suite. 🥇 Rank 1 Overall & Best Technical Solution at AWS QuickQuest Finale 2026.
 
