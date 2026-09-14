@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brandon Duran</h1>
-<h3 align="center">BSIT Student @ National University Fairview | Software Engineering Intern-in-Training</h3>
+<h3 align="center">BSIT Student @ NU Fairview 
 
 <p align="center">
 Building robust, user-centric apps across web, mobile, and AI-agentic systems.
@@ -77,7 +77,3 @@ Currently exploring agentic AI tooling and full-stack development. 🚀
 <img src="https://img.shields.io/badge/RevenueCat-F65C5C?style=for-the-badge&logo=revenuecat&logoColor=white" alt="RevenueCat"/>
 <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/>
 </p>
-
-### 🏆 Achievements
-- 🥇 **Rank 1 Overall & Best Technical Solution** — AWS QuickQuest Finale: Build Responsibly (2026)
-- 🥈 **2nd Place, Python Programming Competition** — SET Days Celebration, National University Fairview (2024)
